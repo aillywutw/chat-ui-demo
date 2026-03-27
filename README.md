@@ -1,2 +1,15 @@
-# chat-ui-demo
-React chat UI demo with messaging, API simulation, and basic interaction
+# Chat UI Demo
+
+A simple chat interface built with React.
+
+## Features
+- Message list
+- Send message
+- Fake API simulation
+
+## Tech Stack
+- React
+- JavaScript
+
+## Status
+Work in progress
