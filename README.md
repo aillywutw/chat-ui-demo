@@ -6,3 +6,6 @@ A simple chat interface built with React.
 - Message list
 - Send message
 - Fake API simulation
+
+## Demo
+https://chat-ui-demo-theta.vercel.app/
